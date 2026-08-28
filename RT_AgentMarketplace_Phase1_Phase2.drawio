@@ -1,0 +1,449 @@
+<mxfile host="app.diagrams.net" version="24.0.0">
+  <diagram name="Phase 1 - Static (garak)" id="phase1">
+    <mxGraphModel dx="1400" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="p1title" value="Phase 1 &#8212; Static Probing (garak)" style="text;html=1;align=left;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#A6192E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="620" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sub" value="AI Red Teaming x Agent Marketplace &#8212; Target State" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="40" y="56" width="620" height="24" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1legbox" value="" style="rounded=1;html=1;fillColor=#FFFFFF;strokeColor=#D6DADF;strokeWidth=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="20" width="360" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="p1leg1sw" value="" style="rounded=1;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="32" width="22" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p1leg1tx" value="Our scope &#8212; AI Red Teaming System" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#7A1322;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="32" width="300" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p1leg2sw" value="" style="rounded=1;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="54" width="22" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p1leg2tx" value="Existing platform / owned by other teams" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="54" width="300" height="16" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1n1" value="1" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="46" y="112" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1mkt" value="Agent Marketplace (UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;align=center;fontSize=14;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="106" width="250" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="p1mktsub" value="Build / Configure Agent" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#6B7280;" vertex="1" parent="1">
+          <mxGeometry x="55" y="136" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1agent" value="My Customer Support Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="55" y="160" width="220" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="p1r1" value="Skills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="198" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p1r2" value="Connectors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="238" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p1r3" value="Model Selection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="278" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p1r4" value="System Prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="318" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p1r5" value="Harness / Framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="358" width="194" height="34" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1n2" value="2" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="336" y="112" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1pol" value="Agent Policy Services&#10;(ISS / Governance owned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="330" y="146" width="220" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p1cfg" value="Red Teaming Configuration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#C3C8CE;dashed=1;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#5A6068;arcSize=8;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p1type" value="&lt;b&gt;Red Teaming Type&lt;/b&gt;&lt;br&gt;&#9679; Static Probing (garak)&lt;br&gt;&lt;font color=&quot;#A9AEB4&quot;&gt;&#9675; Adaptive (PyRIT) &#8212; Phase 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;verticalAlign=middle;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="282" width="190" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="p1probe" value="&lt;b&gt;Probe Selection&lt;/b&gt;&lt;br&gt;Policy-mapped probe suite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;verticalAlign=middle;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="368" width="190" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1rts" value="AI RED TEAMING SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A6192E;strokeWidth=3;verticalAlign=top;align=center;fontSize=15;fontStyle=1;fontColor=#A6192E;arcSize=4;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="560" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="p1api" value="Red Teaming API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="150" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1cat" value="Agent Catalog DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="150" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1orch" value="Run Orchestrator &amp;amp; Scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="238" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p1meta" value="Run Metadata Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="238" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p1eng" value="Red Teaming Execution Engines (Async)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A6192E;dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=11;fontStyle=1;fontColor=#A6192E;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="625" y="330" width="485" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p1garak" value="Static Probing Engine (garak)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="645" y="362" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p1slot" value="Adaptive Engine&#10;(added in Phase 2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C3C8CE;dashed=1;strokeWidth=1.5;fontSize=11;fontColor=#A9AEB4;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="880" y="362" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p1res" value="Results &amp;amp; Artifacts Storage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="466" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p1s3" value="Object Storage (S3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="466" width="220" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1tgtbox" value="Target under test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#C3C8CE;dashed=1;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#6B7280;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="560" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="p1tgt" value="Target Agent / API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="655" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1llm" value="Models / LLM Providers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="655" width="220" height="56" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1n3" value="3" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="112" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1resbox" value="Results in Marketplace (UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;fontSize=14;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="106" width="340" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sum" value="&lt;b&gt;Run Summary&lt;/b&gt;&lt;br&gt;85 Total Tests&#160;&#160;&#183;&#160;&#160;12 Findings&#160;&#160;&#183;&#160;&#160;2 Critical" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="146" width="308" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1risk" value="&lt;b&gt;Top Risk Categories&lt;/b&gt;&lt;br&gt;Prompt Injection 7&#160;&#160;&#183;&#160;&#160;Data Leakage 3&#160;&#160;&#183;&#160;&#160;Jailbreak 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="212" width="308" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1rep" value="&lt;b&gt;Reports&lt;/b&gt;&#160;&#160;HTML&#160;&#160;&#183;&#160;&#160;JSONL&#160;&#160;&#183;&#160;&#160;Re-run&#160;&#160;&#183;&#160;&#160;Share" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="278" width="308" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1n4" value="4" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#12395B;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#12395B;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="396" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1alan" value="ALAN &#8212; Governance Record" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F5FA;strokeColor=#12395B;strokeWidth=2;verticalAlign=top;fontSize=14;fontStyle=1;fontColor=#12395B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="390" width="340" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="p1att" value="Red teaming attestation per agent version" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B7C4D4;fontSize=11;fontColor=#12395B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="428" width="308" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="p1att2" value="Run ID&#160;&#183;&#160;Timestamp&#160;&#183;&#160;Pass / Fail&#160;&#183;&#160;Findings count&#160;&#183;&#160;Report link&#160;&#183;&#160;Policy version applied" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B7C4D4;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="480" width="308" height="72" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1n5" value="5" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#12395B;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#12395B;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="626" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1gate" value="PROD Promotion Gate&#10;&#10;Marketplace cannot promote an agent to&#10;production without a passing ALAN record" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F5FA;strokeColor=#12395B;strokeWidth=2;dashed=1;fontSize=12;fontStyle=1;fontColor=#12395B;arcSize=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="620" width="340" height="112" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1e1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;fontSize=10;fontColor=#6B7280;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1mkt" target="p1pol">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e1l" value="Agent creation /&#10;registration callback" style="text;html=1;align=center;fontSize=10;fontColor=#6B7280;" vertex="1" parent="1">
+          <mxGeometry x="294" y="86" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1pol" target="p1cfg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=2;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1cfg" target="p1api">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e3l" value="Triggers red teaming" style="text;html=1;align=center;fontSize=10;fontColor=#A6192E;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="522" y="248" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1api" target="p1cat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1api" target="p1orch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1orch" target="p1meta">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1orch" target="p1garak">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1garak" target="p1res">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1res" target="p1s3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1rts" target="p1tgt">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e10l" value="Probe traffic &#8212; off-hours window" style="text;html=1;align=center;fontSize=10;fontColor=#6B7280;" vertex="1" parent="1">
+          <mxGeometry x="760" y="580" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1tgt" target="p1llm">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=2;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p1s3" target="p1resbox">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1175" y="496" />
+              <mxPoint x="1175" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1e13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#12395B;strokeWidth=2;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1resbox" target="p1alan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e13l" value="Systematic feed from Marketplace" style="text;html=1;align=center;fontSize=10;fontColor=#12395B;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1240" y="352" width="260" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#12395B;strokeWidth=2;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p1alan" target="p1gate">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1note" value="Cadence: one mandatory run gates promotion at UAT / QA, then periodic and change-triggered re-scans." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=10;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="510" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="p1note2" value="Dependency: at default Stork rate limits a full run takes 14&#8211;16 hours; a dedicated red teaming quota brings this to 4&#8211;6 hours." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=10;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="676" width="510" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+
+  <diagram name="Phase 2 - Adaptive (PyRIT)" id="phase2">
+    <mxGraphModel dx="1400" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="p2title" value="Phase 2 &#8212; Adaptive Red Teaming (PyRIT)" style="text;html=1;align=left;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#A6192E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="700" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="p2sub" value="Same platform, same integration points &#8212; only the execution engine changes" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="40" y="56" width="700" height="24" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2legbox" value="" style="rounded=1;html=1;fillColor=#FFFFFF;strokeColor=#D6DADF;strokeWidth=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="14" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg1sw" value="" style="rounded=1;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="24" width="22" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg1tx" value="Our scope &#8212; AI Red Teaming System" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#7A1322;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="24" width="300" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg3sw" value="" style="rounded=1;html=1;fillColor=#E8F5F2;strokeColor=#0F7B6C;strokeWidth=2;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="46" width="22" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg3tx" value="New in Phase 2" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#0F7B6C;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="46" width="300" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg2sw" value="" style="rounded=1;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="68" width="22" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="p2leg2tx" value="Existing platform / owned by other teams" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="68" width="300" height="16" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2n1" value="1" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="46" y="112" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2mkt" value="Agent Marketplace (UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;align=center;fontSize=14;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="106" width="250" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="p2mktsub" value="Build / Configure Agent" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#6B7280;" vertex="1" parent="1">
+          <mxGeometry x="55" y="136" width="220" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2agent" value="My Customer Support Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="55" y="160" width="220" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="p2r1" value="Skills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="198" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p2r2" value="Connectors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="238" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p2r3" value="Model Selection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="278" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p2r4" value="System Prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="318" width="194" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="p2r5" value="Harness / Framework" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="68" y="358" width="194" height="34" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2n2" value="2" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="336" y="112" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2pol" value="Agent Policy Services&#10;(ISS / Governance owned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="330" y="146" width="220" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="p2cfg" value="Red Teaming Configuration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#C3C8CE;dashed=1;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#5A6068;arcSize=8;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p2type" value="&lt;b&gt;Red Teaming Type&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#A9AEB4&quot;&gt;&#9675; Static Probing (garak)&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0F7B6C&quot;&gt;&#9679; Adaptive Red Teaming (PyRIT)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0F7B6C;strokeWidth=2;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;verticalAlign=middle;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="282" width="190" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="p2probe" value="&lt;b&gt;Attack Objectives&lt;/b&gt;&lt;br&gt;Policy-mapped goals and&lt;br&gt;conversation depth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0F7B6C;strokeWidth=2;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;verticalAlign=middle;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="368" width="190" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2rts" value="AI RED TEAMING SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A6192E;strokeWidth=3;verticalAlign=top;align=center;fontSize=15;fontStyle=1;fontColor=#A6192E;arcSize=4;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="560" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="p2api" value="Red Teaming API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="150" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p2cat" value="Agent Catalog DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="150" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p2orch" value="Run Orchestrator &amp;amp; Scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="238" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2meta" value="Run Metadata Store" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="238" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2eng" value="Red Teaming Execution Engines (Async)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#A6192E;dashed=1;strokeWidth=1.5;verticalAlign=top;fontSize=11;fontStyle=1;fontColor=#A6192E;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="625" y="330" width="485" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p2garak" value="Static Probing Engine (garak)&#10;retained from Phase 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D8A5AF;strokeWidth=1.5;fontSize=11;fontColor=#A9757F;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="645" y="362" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p2pyrit" value="Adaptive Red Teaming Engine (PyRIT)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5F2;strokeColor=#0F7B6C;strokeWidth=2.5;fontSize=12;fontStyle=1;fontColor=#0B5C50;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="880" y="362" width="210" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p2res" value="Results &amp;amp; Artifacts Storage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="466" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2s3" value="Object Storage (S3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDF3F5;strokeColor=#A6192E;strokeWidth=2;fontSize=12;fontStyle=1;fontColor=#7A1322;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="466" width="220" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2attacker" value="Attacker LLM&#10;(scoring &amp;amp; strategy)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5F2;strokeColor=#0F7B6C;strokeWidth=2;dashed=1;fontSize=11;fontStyle=1;fontColor=#0B5C50;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2tgtbox" value="Target under test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#C3C8CE;dashed=1;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#6B7280;arcSize=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="560" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="p2tgt" value="Target Agent / API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="625" y="655" width="220" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p2llm" value="Models / LLM Providers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontColor=#3F454B;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="655" width="220" height="56" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2n3" value="3" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#9AA1A9;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#5A6068;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="122" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2resbox" value="Results in Marketplace (UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAFAFA;strokeColor=#9AA1A9;strokeWidth=1.5;verticalAlign=top;fontSize=14;fontStyle=1;fontColor=#3F454B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="116" width="340" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="p2sum" value="&lt;b&gt;Run Summary&lt;/b&gt;&lt;br&gt;Attack objectives&#160;&#183;&#160;Turns to breach&#160;&#183;&#160;Success rate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="152" width="308" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p2risk" value="&lt;b&gt;Top Risk Categories&lt;/b&gt;&lt;br&gt;Multi-turn jailbreak&#160;&#183;&#160;Tool misuse&#160;&#183;&#160;Data leakage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="214" width="308" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="p2rep" value="&lt;b&gt;Reports&lt;/b&gt;&#160;&#160;Conversation transcripts&#160;&#183;&#160;HTML&#160;&#183;&#160;JSONL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="276" width="308" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2n4" value="4" style="ellipse;html=1;fillColor=#FFFFFF;strokeColor=#12395B;strokeWidth=1.5;fontSize=12;fontStyle=1;fontColor=#12395B;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="396" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2alan" value="ALAN &#8212; Governance Record" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F5FA;strokeColor=#12395B;strokeWidth=2;verticalAlign=top;fontSize=14;fontStyle=1;fontColor=#12395B;arcSize=6;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="390" width="340" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="p2att" value="Same attestation contract as Phase 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B7C4D4;fontSize=11;fontColor=#12395B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="428" width="308" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p2att2" value="Engine type recorded alongside run outcome, so governance evidence is consistent across both phases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B7C4D4;fontSize=11;fontColor=#3F454B;align=left;spacingLeft=8;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="478" width="308" height="58" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2e1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2mkt" target="p2pol">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e1l" value="Agent creation /&#10;registration callback" style="text;html=1;align=center;fontSize=10;fontColor=#6B7280;" vertex="1" parent="1">
+          <mxGeometry x="294" y="86" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p2pol" target="p2cfg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=2;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2cfg" target="p2api">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e3l" value="Triggers red teaming" style="text;html=1;align=center;fontSize=10;fontColor=#A6192E;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="522" y="248" width="120" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2api" target="p2cat">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p2api" target="p2orch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2orch" target="p2meta">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#0F7B6C;strokeWidth=2;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p2orch" target="p2pyrit">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#0F7B6C;strokeWidth=2;endArrow=block;exitX=0;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="p2pyrit" target="p2res">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2res" target="p2s3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#0F7B6C;strokeWidth=2.5;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p2rts" target="p2tgt">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e10l" value="Multi-turn adversarial exchange &#8212; attacker adapts on each response" style="text;html=1;align=center;fontSize=10;fontColor=#0F7B6C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="578" width="360" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9AA1A9;strokeWidth=1.5;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2tgt" target="p2llm">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#0F7B6C;strokeWidth=2;dashed=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2pyrit" target="p2attacker">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="388" />
+              <mxPoint x="1170" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p2e13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#A6192E;strokeWidth=2;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="p2s3" target="p2resbox">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="496" />
+              <mxPoint x="1180" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p2e14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#12395B;strokeWidth=2;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="p2resbox" target="p2alan">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2e14l" value="Systematic feed from Marketplace" style="text;html=1;align=center;fontSize=10;fontColor=#12395B;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1240" y="352" width="260" height="18" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p2vendor" value="Vendor evaluation runs in parallel with Phase 2: F5 AI Red Team and Palo Alto Prisma AIRS assessed against PyRIT on adaptive coverage, deployment model and evidence quality. Integration contract above stays the same whichever engine is selected." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0F7B6C;dashed=1;strokeWidth=1.5;fontSize=11;fontColor=#0B5C50;align=left;spacingLeft=10;arcSize=8;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="510" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="p2note" value="Phase 2 changes the engine only. API, orchestrator, storage, marketplace surface and ALAN contract are unchanged." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DDE1E5;fontSize=11;fontColor=#5A6068;align=left;spacingLeft=10;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="510" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

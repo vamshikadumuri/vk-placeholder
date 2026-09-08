@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" modified="2026-09-08T00:00:00.000Z" agent="Claude" version="24.0.0" type="device">
+  <diagram id="phase1-deps" name="Phase 1 dependencies">
+    <mxGraphModel dx="1100" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="300" math="0" shadow="0" background="#F7F3ED">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="divider" value="" style="endArrow=none;html=1;strokeColor=#E3DCD2;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="40" as="sourcePoint" />
+            <mxPoint x="790" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <mxCell id="marker" value="5" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#A8213A;strokeWidth=1;fontColor=#A8213A;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="40" y="64" width="22" height="22" as="geometry" />
+        </mxCell>
+
+        <mxCell id="header" value="Phase 1 delivery depends on" style="text;html=1;align=left;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#8C1D33;fontSize=14;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="70" y="64" width="300" height="22" as="geometry" />
+        </mxCell>
+
+        <mxCell id="chip1" value="Stabilise RTaaS" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#FBF7F3;strokeColor=#E3CFD3;strokeWidth=1;fontColor=#3A3F4A;fontSize=12;fontFamily=Helvetica;align=left;spacingLeft=30;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="106" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dot1" value="" style="ellipse;html=1;fillColor=#A8213A;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="52" y="118" width="10" height="10" as="geometry" />
+        </mxCell>
+
+        <mxCell id="chip2" value="Policy definitions + APS" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#FBF7F3;strokeColor=#E3CFD3;strokeWidth=1;fontColor=#3A3F4A;fontSize=12;fontFamily=Helvetica;align=left;spacingLeft=30;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="202" y="106" width="200" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dot2" value="" style="ellipse;html=1;fillColor=#A8213A;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="214" y="118" width="10" height="10" as="geometry" />
+        </mxCell>
+
+        <mxCell id="chip3" value="Marketplace UI" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#FBF7F3;strokeColor=#E3CFD3;strokeWidth=1;fontColor=#3A3F4A;fontSize=12;fontFamily=Helvetica;align=left;spacingLeft=30;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="414" y="106" width="145" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dot3" value="" style="ellipse;html=1;fillColor=#A8213A;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="426" y="118" width="10" height="10" as="geometry" />
+        </mxCell>
+
+        <mxCell id="chip4" value="ALAN integration" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#FBF7F3;strokeColor=#E3CFD3;strokeWidth=1;fontColor=#3A3F4A;fontSize=12;fontFamily=Helvetica;align=left;spacingLeft=30;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="571" y="106" width="155" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dot4" value="" style="ellipse;html=1;fillColor=#A8213A;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583" y="118" width="10" height="10" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
